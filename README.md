@@ -11,3 +11,8 @@
 
   * Tener instalado una versión de [nodejs](https://nodejs.org).
   * Puedes hostearlo en tu PC, pero es recomendable hostearlo en una VPS - Bot Hosting.
+
+# 🔧 Instalación
+
+* Descargar los archivos y descomprimirlos en una carpeta.
+* Ingresar al **index.js** y en la linea número **84** colocar el token de tu bot en ``TOKEN``
