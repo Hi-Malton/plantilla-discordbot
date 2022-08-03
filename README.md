@@ -22,4 +22,5 @@
 cd "raiz de la carpeta de tu bot"
 npm init -y
 npm install discord.js --save
-node index```
+node index
+```
