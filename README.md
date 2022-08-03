@@ -25,5 +25,3 @@ npm init -y
 npm install discord.js --save
 node index
 ```
-
-<a href="https://heroku.com/deploy?template=https://github.com/Clytage/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
