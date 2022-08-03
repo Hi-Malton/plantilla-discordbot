@@ -9,6 +9,5 @@
 
 # ✅ Requisitos Mínimos
 
-  * Tener instalado una versión de [nodejs](https://nodejs.org) 16.11.0 o mayor.
-  * Un [cluster de MongoDB](https://www.mongodb.com/es/cloud/atlas/) para la base de datos.
-  * Hostearlo en un VPS o un Raspberry PI, para no tener tu PC encendido 24/7
+  * Tener instalado una versión de [nodejs](https://nodejs.org).
+  * Puedes hostearlo en tu PC, pero es recomendable hostearlo en una VPS - Bot Hosting.
