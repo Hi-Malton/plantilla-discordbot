@@ -9,7 +9,8 @@
 
 # ✅ Requisitos Mínimos
 
-  * Tener instalado una versión de [nodejs](https://nodejs.org).
+  * Tener instalado una versión de [node.js](https://nodejs.org).
+  * Un bot creado mediante [**Aplications**](https://discord.com/developers/applications)
   * Puedes hostearlo en tu PC, pero es recomendable hostearlo en una VPS - Bot Hosting.
 
 # 🔧 Instalación
