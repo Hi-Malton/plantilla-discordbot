@@ -15,4 +15,10 @@
 # 🔧 Instalación
 
 * Descargar los archivos y descomprimirlos en una carpeta.
-* Ingresar al **index.js** y en la linea número **84** colocar el token de tu bot en ``TOKEN``
+* Ingresar al **index.js - linea 84** y colocar el token de tu bot en ``TOKEN``. **(Si lo haces mediante Replit en la linea 67 deberaz de poner la web del bot)**
+* Abrir el CMD y colocar lo siguiente:
+
+```cd "raiz de la carpeta de tu bot"
+npm init -y
+npm install discord.js --save
+node index```
