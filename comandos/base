@@ -1,0 +1,12 @@
+const Discord = require('discord.js');
+
+module.exports = {
+  name: "",//le debes dar un nombre a tu comando
+  alias: [""],// puedes darle un alias si no quieres darle un alias simplemente dejalo vacio sin las comillas
+
+ execute(client, message, args){
+
+
+  ///aqui lo que quieres que pase en tu comando
+  }
+}
