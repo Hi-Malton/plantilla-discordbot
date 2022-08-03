@@ -1,9 +1,8 @@
-# Plantilla Discord Bot
 
 <h1 align="center">
     <br>
     <img src="https://i.imgur.com/EYvBrPN.png" height="200">
     <br>
-    <p>Discord BOT Template</p>
-    <p>This is a template used to start developing a Discord BOT in Node.JS.</p>
+    <p>Plantilla Discord Bot</p>
+    <p>Esta es una plantilla utilizada para comenzar a desarrollar un bot de discord en Node.JS.</p>
 <h1>
